@@ -97,7 +97,7 @@ p a{
      height: 100%;
      width: 100%;
      top: 0;
-     opacity: 0;
+     opacity: 1;
      padding: 24px;
      display: flex;
     align-items: flex-end;
@@ -129,6 +129,8 @@ p a{
         gap: 30px;
       
     }
-    
+    .floating-text{
+opacity:0
+    }
    
 }
